@@ -5,7 +5,7 @@
  * main - main block
  * Description: the fuction asigns a random number to n and
  * print if n is positive,negative or zero
- * Return: 0
+ * Return: (0);
  */
 int main(void)
 {
@@ -20,5 +20,5 @@ int main(void)
 	else
 		printf("%i is zero\n", n);
 
-	Return (0);
+	Return(0);
 }
